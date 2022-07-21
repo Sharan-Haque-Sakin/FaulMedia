@@ -18,7 +18,7 @@
     "jsonwebtoken": "^8.5.1",
     "jwt": "^0.2.0",
     "mongoose": "^6.4.4",
-    "node":"^16.13.2"
+    "node":"16.13.2"
   },
   "scripts": {
     "start": "node  main.js"
